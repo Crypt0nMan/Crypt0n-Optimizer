@@ -61,7 +61,7 @@ El autor no se hace responsable por daños, pérdida de datos o configuraciones 
 
 1. Descarga o clona este repositorio:  
    ```bash
-   git clone https://github.com/<tu-usuario>/Crypt0n-Optimizer.git
+   git clone https://github.com/Crypt0nMan/Crypt0n-Optimizer.git
    ```
 2. Abre la carpeta del proyecto y ejecuta el archivo:
    ```bash
