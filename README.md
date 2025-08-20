@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/crypt0n-logo.png" alt="Crypt0n Optimizer Logo" width="250"/>
+  <img src="assets/crypt0n-logo.png" alt="Crypt0n Optimizer Logo" width="800"/>
 </p>
 
 # ⚡ Crypt0n Optimizer v1.0
